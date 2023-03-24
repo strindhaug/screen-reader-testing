@@ -26,7 +26,7 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 
 ## 10 kr/kg
 
-- åtte kroner per kilometer
+- ti kroner per kilo
 
 <!-- > resultat -->
 

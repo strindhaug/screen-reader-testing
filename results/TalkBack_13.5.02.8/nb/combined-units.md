@@ -10,43 +10,82 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 
 - ni kroner per liter
 
-<!-- > resultat -->
+> ni norske kroner ell
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per"
+- staver "l"
+
 
 ## 8 kr/ml
 
 - åtte kroner per milliliter
 
-<!-- > resultat -->
+> åtte norske kroner emm ell
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per"
+- staver "ml"
 
 ## 8 kr/km
 
 - åtte kroner per kilometer
 
-<!-- > resultat -->
+> åtte norske kroner
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per kilometer" !!!
+
 
 ## 10 kr/kg
 
-- åtte kroner per kilometer
+- ti kroner per kilo
 
-<!-- > resultat -->
+> ti norske kroner
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per kilo(gram)" !!!
 
 ## 20 kr pr. kg
 
 - tjue kroner per kilo
 
-<!-- > resultat -->
+> tjue norske kroner pe ærr kå ge
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- staver "pr. kg"
 
 ## 30 kr pr kg
 
 - tretti kroner per kilo
 
-<!-- > resultat -->
+> tretti norske kroner pe ærr kå ge
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- staver "pr. kg"
 
 ## 40 kr per kg
 
 - førti kroner per kilo
 
-<!-- > resultat -->
+> førti norske kroner
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per kilo(gram)"
 
 ## 1,50 kr/kg
 
@@ -54,7 +93,12 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 <!-- - en og-en-halv krone per kilo -->
 <!-- - en (komma) femti krone(r) per kilo -->
 
-<!-- > resultat -->
+> en norsk krone og femti øre
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per kilo(gram)"
 
 ## 2,50 kr pr. kg
 
@@ -62,7 +106,12 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 <!-- - to og-en-halv kroner per kilo -->
 <!-- - to (komma) femti kroner per kilo -->
 
-<!-- > resultat -->
+> to norske kroner og femti øre pe ærr kå ge
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- staver "pr. kg"
 
 ## 3,50 kr pr kg
 
@@ -70,7 +119,13 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 <!-- - tre og-en-halv kroner per kilo -->
 <!-- - tre (komma) femti kroner per kilo -->
 
-<!-- > resultat -->
+> tre norske kroner og femti øre pe ærr kå ge
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- staver "pr kg"
+
 
 ## 4,50 kr per kg
 
@@ -78,51 +133,77 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 <!-- - fire og-en-halv kroner per kilo -->
 <!-- - fire (komma) femti kroner per kilo -->
 
-<!-- > resultat -->
+> fire norske kroner og femti øre
 
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per kilo(gram)"
 
 ## 100 kr/g
 
 - hundre kroner per gram
 
-<!-- > resultat -->
+> ett-hundre norske kroner
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per gram"
+
 
 ## 110 kr/gram
 
 - hundre-og-ti kroner per gram
 
-<!-- > resultat -->
+> ett-hundre-og-ti norske kroner
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per gram"
 
 ## 120 kr / g
 
 - hundre-og-tjue kroner per gram
 
-<!-- > resultat -->
+> ett-hundre-og-tjue norske kroner
+
+### Feil:
+
+- Feil valuta (leser "kr" som om det er "NOK")
+- MANGLER "per gram"
 
 
 ## 10 m/s
 
 - ti meter per sekund
 
-<!-- > resultat -->
+> ti meter per sekund
+
+Riktig
 
 ## 20 km/s
 
 - tjue kilometer per sekund
 
-<!-- > resultat -->
+> tjue kilometer per sekund
 
 ## 30 km/h
 
 - tretti kilometer i timen
 
-<!-- > resultat -->
+> tretti kilometer i timen
+
+Riktig
 
 ## 40 km/t
 
 - førti kilometer i timen
 
-<!-- > resultat -->
+> førti kilometer i timen
+
+Riktig
 
 
 </div>
