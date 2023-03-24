@@ -1,8 +1,12 @@
 <div lang="nb">
 
+Utenfor konteksten å lese opp nåværende klokkeslett, burde en skjermleser aldri oversette et klokkeslett fra 24-timersformat til 12-timersformat, siden det da er tvetydig om det er f.eks. 08:45 eller 20:45.
+
+(Hvis den skal oversette 24-timersklokke til 12-timers-klokke bør den også føye til "om morgenen", "om ettermiddagen", "på kvelden" osv. på lik linje med AM og PM på engelsk.)
+
 # ISO datoer
 
-### 2020-01-01
+## 2020-01-01
 
 - første januar tjue tjue
 <!-- - første januar to-tusen-og-tjue -->
@@ -11,7 +15,7 @@
 
 <!-- > resultat -->
 
-### 2020-12-24
+## 2020-12-24
 
 - tjuefjerde desember januar tjue tjue
 <!-- - tjuefjerde desember to-tusen-og-tjue -->
@@ -20,48 +24,48 @@
 
 <!-- > resultat -->
 
-### 2023-03-24T09:00
+## 2023-03-24T09:00
 
 - tjue-fjerde mars tjue tjue-tre (klokka) null ni (null-null)
 
 <!-- > resultat -->
 
-### 2023-03-24T09:00:12+00:00
+## 2023-03-24T09:00:12+00:00
 
 <!-- > resultat -->
 
-### 2023-03-24T09:00:12Z
+## 2023-03-24T09:00:12Z
 
 <!-- > resultat -->
 
 
-## Andre tekniske datoer
+# Andre tekniske datoer
 
-### 2023-03-24 09:00
+## 2023-03-24 09:00
 
 - tjue-fjerde mars tjue tjue-tre (klokka) null ni (null-null)
 
 <!-- > resultat -->
 
-### 2023-03-24 kl. 09:00
+## 2023-03-24 kl. 09:00
 
 - tjue-fjerde mars tjue tjue-tre klokka null ni (null-null)
 
 <!-- > resultat -->
 
-### kl. 09:00
+## kl. 09:00
 
 - klokka null ni (null-null)
 
 <!-- > resultat -->
 
-### klokka 21:00
+## klokka 21:00
 
 - klokka tjue-en (null-null)
 
 <!-- > resultat -->
 
-### klokka 8:45
+## klokka 8:45
 
 - klokka åtte førti-fem
 <!-- - klokka kvart på ni -->
@@ -69,14 +73,14 @@
 
 <!-- > resultat -->
 
-### klokka 08:45
+## klokka 08:45
 
 - klokka åtte førti-fem
 <!-- - klokka kvart på ni -->
 
 <!-- > resultat -->
 
-### klokka 20:45
+## klokka 20:45
 
 - klokka tjue førti-fem
 
@@ -89,26 +93,26 @@ men "klokka kvart på ni" er helt uønsket siden det er umulig å skille fra 08:
 
 # Norske dato- og tidsformat
 
-### den 5. juni 2014
+## den 5. juni 2014
 
 - den femte juni tjue fjorten
 
 <!-- > resultat -->
 
-### 5. juni 2014
+## 5. juni 2014
 
 - femte juni tjue fjorten
 
 <!-- > resultat -->
 
-### 5.6.2014
+## 5.6.2014
 
 - femte juni tjue fjorten
 - femte i sjette tjue fjorten
 
 <!-- > resultat -->
 
-### 05.06.2014
+## 05.06.2014
 
 - femte juni tjue fjorten
 - femte i sjette tjue fjorten
@@ -117,22 +121,22 @@ men "klokka kvart på ni" er helt uønsket siden det er umulig å skille fra 08:
 
 
 (De to neste er ok om årstallet uttales som 14, 2014 eller 1914, siden det er tvetydig med tosifret årstall)
-### 5.6.14
+## 5.6.14
 
 <!-- > resultat -->
 
-### 05.06.14
+## 05.06.14
 
 <!-- > resultat -->
 
 
-### den 5. juni 2014 kl. 02:00
+## den 5. juni 2014 kl. 02:00
 
 - dem femte juni tjue fjorten klokka (null) to (null-null)
 
 <!-- > resultat -->
 
-### i morgen kl. 15:45
+## i morgen kl. 15:45
 
 - i morgen klokka femten førtifem
 
@@ -141,44 +145,44 @@ men "klokka kvart på tre" er helt uønsket siden det er umulig å skille fra 15
 
 <!-- > resultat -->
 
-### i morgen kl. 15:47
+## i morgen kl. 15:47
 
 - i morgen klokka femten førtisju
 
 <!-- > resultat -->
 
 
-### kl. 22:23
+## kl. 22:23
 
 - klokka tjueto tjuetre
 
 <!-- > resultat -->
 
-### klokka 22:23
+## klokka 22:23
 
 - klokka tjueto tjuetre
 
 <!-- > resultat -->
 
-### mandag 02:00
+## mandag 02:00
 
 - mandag (klokka) (null) to (null-null)
 
 <!-- > resultat -->
 
-### onsdag 03:20
+## onsdag 03:20
 
 - onsdag (klokka) (null) tre tjue
 
 <!-- > resultat -->
 
-### i morgen klokka 03:20
+## i morgen klokka 03:20
 
 - i morgen klokka (null) tre tjue
 
 <!-- > resultat -->
 
-### i morgen klokka 15:20
+## i morgen klokka 15:20
 
 - i morgen klokka femten tjue
 

@@ -174,12 +174,9 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 - Feil valuta (leser "kr" som om det er "NOK")
 - MANGLER "per gram"
 
-
 ## 10 m/s
 
 - ti meter per sekund
-
-> ti meter per sekund
 
 Riktig
 
@@ -187,21 +184,15 @@ Riktig
 
 - tjue kilometer per sekund
 
-> tjue kilometer per sekund
-
 ## 30 km/h
 
 - tretti kilometer i timen
-
-> tretti kilometer i timen
 
 Riktig
 
 ## 40 km/t
 
 - førti kilometer i timen
-
-> førti kilometer i timen
 
 Riktig
 
