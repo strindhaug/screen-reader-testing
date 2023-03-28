@@ -34,7 +34,7 @@
 
 ## $2,50
 
- - to dollar (og) femti sent
+ - to dollar (og) femti cent
 
 <!-- > resultat -->
 
@@ -43,7 +43,7 @@
 
 <!-- (Den burde oppfatte punktum som desimalskille siden det er vanlig på engelsk) -->
 
- - to dollar (og) femti sent
+ - to dollar (og) femti cent
 
 <!-- > resultat -->
 
@@ -70,25 +70,25 @@
 
 ## USD 2,30
 
- - to amerikanske dollar og tretti sent
+ - to amerikanske dollar og tretti cent
 
 <!-- > resultat -->
 
 ## CAD 5,30
 
- - fem kanadiske dollar og femti sent
+ - fem kanadiske dollar og femti cent
 
 <!-- > resultat -->
 
 ## 2,30 USD
 
-- to amerikanske dollar og tretti sent
+- to amerikanske dollar og tretti cent
 
 <!-- > resultat -->
 
 ## 99,50 EUR
 
- - nitti-ni euro og femti (euro)sent
+ - nitti-ni euro og femti (euro)cent
  - nitti-ni (komma) femti euro
 
 <!-- > resultat -->
