@@ -7,22 +7,22 @@ Det virker som om det er noe rart i TalkBack, i allefall med React at den insist
 
 Dette er en test på flere varianter av wrappere med aria-label for å se hvilke som virker i en statisk HTML sammenheng.
 
-<p aria-label="50 kroner per stykk, 120 kroner per kilo">
+<div aria-label="50 kroner per stykk, 120 kroner per kilo">
     <strong>50 kr</strong>
     <i>
         120 kr/kg
     </i>
-</p>
+</div>
 
-<p aria-label="50 kroner per stykk, 120 kroner per kilo">
+<div aria-label="50 kroner per stykk, 120 kroner per kilo">
     <strong aria-hidden="true">50 kr</strong>
     <i aria-hidden="true">120 kr/kg</i>
-</p>
+</div>
 
 
-<p>
+<div>
     <strong aria-label="50 kroner per stykk, 120 kroner per kilo">50 kr</strong>
     <i aria-hidden="true">120 kr/kg</i>
-</p>
+</div>
 
 </div>
