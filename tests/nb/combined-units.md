@@ -125,5 +125,38 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 
 <!-- > resultat -->
 
+# More tests
+
+## 10 NOK/kg
+
+- ti norske kroner per kilo
+
+<!-- > resultat -->
+
+## 0.5 l/km
+
+- null komma fem liter per kilometer
+
+<!-- > resultat -->
+
+## 1.0 liter/km
+
+- 1 (komma null) liter per kilometer
+
+<!-- > resultat -->
+
+## 2 dl/m^2
+
+- to deciliter per kvadratmeter
+- to deciliter per meter i annen
+
+<!-- > resultat -->
+
+## 2 poteter/person
+
+- to poteter per person
+
+<!-- > resultat -->
+
 
 </div>
