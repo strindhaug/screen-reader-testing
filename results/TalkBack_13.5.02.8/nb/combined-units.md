@@ -239,6 +239,24 @@ Riktig
 
 - Staver seg gjennom en engelsk uttale av enhetene. (dvs. staver opp hver bokstav i frasen "2 deciliter per square meter")
 
+## kr 50,30/kg
+
+- femti kroner og tretti øre per kilo
+- femti komma tretti kroner per kilo
+- kroner femti komma tretti per kilo
+
+> kå err fem null tre null pe e er kå i ell o ge err a em
+
+Dvs. det høres ut som "K.R. 5 0 3 0 P.E.R.K.I.L.O.G.R.A.M"
+
+### Feil
+ - leser ett og ett siffer
+ - ignorerer komma
+ - staver seg gjennom "per kilogram"
+
+Jeg antar at igjen er frasen den staver engelsk siden vi vanligvis sier bare "per kilo" på norsk,
+og siden det ser ut til at hver gang norsk TalkBack av en eller annen mystisk grunn oversetter symboler til en engelsk frase så staver den frasen.
+
 ## 2 poteter/person
 
 - to poteter per person

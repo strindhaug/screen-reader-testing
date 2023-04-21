@@ -132,13 +132,18 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 
 <!-- > resultat -->
 
-## 0.5 l/km
+## 0,5 l/km
 
 - null komma fem liter per kilometer
 
 <!-- > resultat -->
 
 ## 1.0 liter/km
+
+- 1 (komma null) liter per kilometer
+
+
+## 1,0 liter/km
 
 - 1 (komma null) liter per kilometer
 
@@ -154,8 +159,8 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 ## kr 50,30/kg
 
 - femti kroner og tretti øre per kilo
-- femti komma tretti kroner per kilo
-- kroner femti komma tretti per kilo
+<!-- - femti komma tretti kroner per kilo -->
+<!-- - kroner femti komma tretti per kilo -->
 
 <!-- > resultat -->
 
