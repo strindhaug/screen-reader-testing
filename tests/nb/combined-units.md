@@ -125,7 +125,6 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 
 <!-- > resultat -->
 
-# More tests
 
 ## 10 NOK/kg
 
@@ -152,11 +151,20 @@ Det som for en hver pris ikke må skje er at skjermleseren utelater vesentlige d
 
 <!-- > resultat -->
 
+## kr 50,30/kg
+
+- femti kroner og tretti øre per kilo
+- femti komma tretti kroner per kilo
+- kroner femti komma tretti per kilo
+
+<!-- > resultat -->
+
 ## 2 poteter/person
 
 - to poteter per person
 
 <!-- > resultat -->
+
 
 
 </div>

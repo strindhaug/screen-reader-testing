@@ -197,5 +197,57 @@ Riktig
 
 Riktig
 
+## 10 NOK/kg
+
+- ti norske kroner per kilo
+
+> ti norske kroner
+
+### Feil:
+
+- MANGLER "per kilo"
+
+## 0.5 l/km
+
+- null komma fem liter per kilometer
+
+> null og en halv ell
+
+### Feil:
+
+- MANGLER "per kilometer"
+- Staver "l" fordi den ikke forstår at "l" her betyr liter.
+
+## 1.0 liter/km
+
+- en (komma null) liter per kilometer
+
+> en komma null liter
+
+### Feil:
+
+- MANGLER "per kilometer"
+
+## 2 dl/m^2
+
+- to deciliter per kvadratmeter
+- to deciliter per meter i annen
+
+> to de e se i el i te e er pe e er ess ku a er e em e te er
+
+### Feil:
+
+- Staver seg gjennom en engelsk uttale av enhetene. (dvs. staver opp hver bokstav i frasen "2 deciliter per square meter")
+
+## 2 poteter/person
+
+- to poteter per person
+
+> to poteter person
+
+### Feil:
+
+- MANGLER "/" men dette er litt forstålig siden det slash ofte ikke uttales hvis den betyr "eller"
+
 
 </div>
