@@ -207,7 +207,7 @@ Riktig
 
 - MANGLER "per kilo"
 
-## 0.5 l/km
+## 0,5 l/km
 
 - null komma fem liter per kilometer
 
@@ -228,12 +228,24 @@ Riktig
 
 - MANGLER "per kilometer"
 
+## 1,0 liter/km
+
+- en (komma null) liter per kilometer
+
+> en komma null liter
+
+### Feil:
+
+- MANGLER "per kilometer"
+
 ## 2 dl/m^2
 
 - to deciliter per kvadratmeter
 - to deciliter per meter i annen
 
-> to de e se i el i te e er pe e er ess ku a er e em e te er
+> to de e se i el i te e er pe e er ess ku a err e em e te e err
+
+Dvs. det høres ut som "2 D.E.C.I.L.I.T.E.R.P.E.R.S.Q.U.A.R.E.M.E.T.E.R"
 
 ### Feil:
 
@@ -245,14 +257,15 @@ Riktig
 - femti komma tretti kroner per kilo
 - kroner femti komma tretti per kilo
 
-> kå err fem null tre null pe e er kå i ell o ge err a em
+> kå err fem null tre null pe e err kå i ell o ge err a em
 
 Dvs. det høres ut som "K.R. 5 0 3 0 P.E.R.K.I.L.O.G.R.A.M"
 
 ### Feil
+ - staver "kr"
  - leser ett og ett siffer
  - ignorerer komma
- - staver seg gjennom "per kilogram"
+ - staver "per kilogram"
 
 Jeg antar at igjen er frasen den staver engelsk siden vi vanligvis sier bare "per kilo" på norsk,
 og siden det ser ut til at hver gang norsk TalkBack av en eller annen mystisk grunn oversetter symboler til en engelsk frase så staver den frasen.
@@ -265,7 +278,10 @@ og siden det ser ut til at hver gang norsk TalkBack av en eller annen mystisk gr
 
 ### Feil:
 
-- MANGLER "/" men dette er litt forstålig siden det slash ofte ikke uttales hvis den betyr "eller"
+- MANGLER "/"
+
+Dette er mer forstålig siden det skråstrek ofte ikke uttales hvis den betyr "eller"; og dette er en ganske non-standard enhet uansett.
+Skjønt det ville vært tryggere å lese det som "skråstrek".
 
 
 </div>
